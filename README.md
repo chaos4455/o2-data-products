@@ -1,5 +1,8 @@
 # 🔷 O2Data: Inteligência Explicável para a Transformação de Negócios 
 
+![Generated Image December 05, 2025 - 11_38AM](https://github.com/user-attachments/assets/6ee20686-59e9-4635-889b-95635fd110d4)
+
+
 ## Consultoria em Sistemas de Decisão e Arquitetura de Dados de Próxima Geração (Next-Gen Data & AI Architecture)
 
 [![Localização](https://img.shields.io/badge/Base-Maring%C3%A1%2C%20Paran%C3%A1-0056B3?style=for-the-badge&logo=map&logoColor=white&labelColor=4B8BBE)](https://www.linkedin.com/in/itilmgf/)
